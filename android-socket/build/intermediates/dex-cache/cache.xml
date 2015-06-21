@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sujit/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.5.0/7d40c590385ba95b34920eb89c986757a79968af/socket.io-client-0.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7d40c590385ba95b34920eb89c986757a79968af">
+        <dex dex="/home/sujit/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/socket.io-client-0.5.0-5fbfc2a0702d5ad123dda63f5195d1ba4b9d4654.jar" />
+    </item>
+    <item
+        jar="/home/sujit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/sujit/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c787d89eb727f31642ebb398142606df443ca6ea.jar" />
+    </item>
+    <item
+        jar="/home/sujit/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/home/sujit/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/okio-1.3.0-fb0ea67270e4b9664a52cb626a0dfc7651df935b.jar" />
+    </item>
+    <item
+        jar="/home/sujit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/home/sujit/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0-b64318f93f8cd06a101f3aa55b1429e6ac595320.jar" />
+    </item>
+    <item
+        jar="/home/sujit/socket.io-android-chat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/sujit/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/classes-f974cf3153a7d6f4b84dcb936d065b35ceeffb2b.jar" />
+    </item>
+    <item
+        jar="/home/sujit/socket.io-android-chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/sujit/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2763e3a0329ab8a16123993e9b2c9afb2f644e72.jar" />
+    </item>
+    <item
+        jar="/home/sujit/socket.io-android-chat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/sujit/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/classes-5bb7a4b88f953a29ca073b94bfa055acecf3785c.jar" />
+    </item>
+    <item
+        jar="/home/sujit/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/home/sujit/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0-ff07703bd0d6c0f531d1520a3c633320bcd2681d.jar" />
+    </item>
+    <item
+        jar="/home/sujit/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.5.0/72f54ba32a0d735630ebc33a5c39e14a5dd45492/engine.io-client-0.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="72f54ba32a0d735630ebc33a5c39e14a5dd45492">
+        <dex dex="/home/sujit/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/engine.io-client-0.5.0-6839618a8bab12399ced31a2b84d2a80ff3ec2bf.jar" />
+    </item>
+    <item
+        jar="/home/sujit/socket.io-android-chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/sujit/socket.io-android-chat/app/build/intermediates/pre-dexed/debug/classes-5d8f16908a05243bb5aea25e292ee83d12194a0f.jar" />
+    </item>
+
+</items>
