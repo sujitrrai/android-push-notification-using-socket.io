@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Socket.IO Chat Example</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+  <script src="/socket.io/socket.io.js"></script>
+  <!-- // <script src="/main.js"></script> -->
+  <script type="text/javascript">
+        var socket = io();
+        for(var i = 1;i<=3;i++ ){
+          socket.emit("pressedButton",i+"");
+        }
+  </script>
+</body>
+</html>
